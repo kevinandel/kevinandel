@@ -9,14 +9,21 @@ I'm Kevin Andel Josy, a B. Tech in Computer Science and Engineering graduate pas
 - 🎨 Experienced in graphic designing.
 - 🌐 Experienced in full stack web development.
 - 💬 Open to collaboration and discussions on technology and coding.
-- 📫 You can reach me at [kevinandeljosy11@gmail.com.com](mailto:basilanazer@gmail.com).
-- 📲 [Click Here](https://basilanazer.netlify.app/) to Check my portfolio
+- 📫 You can reach me at [kevinandeljosy11@gmail.com.com](mailto:kevinandeljosy11@gmail.com).
+- 📲 [Click Here](https://myportfoliofinal-rho.vercel.app/) to visit my portfolio
 
 ## Technologies I work with
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 [![Figma](https://img.shields.io/badge/Figma-green?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -26,8 +33,7 @@ I'm Kevin Andel Josy, a B. Tech in Computer Science and Engineering graduate pas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kevinandeljosy)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/kevin__andel/)
-[![Twitter](https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=x)](https://twitter.com/BasilaNazer)
-[![Gmail](https://img.shields.io/badge/Gmail-lightyellow?style=for-the-badge&logo=gmail)](mailto:basilanazer@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-lightyellow?style=for-the-badge&logo=gmail)](mailto:kevinandeljosy11@gmail.com)
 
 
 Feel free to explore my projects and reach out for collaborations or discussions. Let's innovate together! 
