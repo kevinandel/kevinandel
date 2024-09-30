@@ -9,10 +9,10 @@ I'm Kevin Andel Josy, a B. Tech in Computer Science and Engineering graduate pas
 - 🎨 Experienced in graphic designing.
 - 🌐 Experienced in full stack web development.
 - 💬 Open to collaboration and discussions on technology and coding.
-- 📫 You can reach me at [kevinandeljosy11@gmail.com.com](mailto:kevinandeljosy11@gmail.com).
+- 📫 You can reach me at [kevinandeljosy11@gmail.com](mailto:kevinandeljosy11@gmail.com).
 - 📲 [Click Here](https://myportfoliofinal-rho.vercel.app/) to visit my portfolio
 
-## Technologies I work with
+## Technologies I Work With
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
