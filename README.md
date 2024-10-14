@@ -6,7 +6,7 @@ I'm Kevin Andel Josy, a B. Tech in Computer Science and Engineering graduate pas
 
 - 🎓 B. Tech in Computer Science and Engineering graduate from Government Engineering College, Thrissur.
 - 💻 Enthusiastic about coding and exploring new technologies.
-- 🎨 Experienced in graphic designing.
+- 🎨 Experienced in graphic designin
 - 🌐 Experienced in full stack web development.
 - 💬 Open to collaboration and discussions on technology and coding.
 - 📫 You can reach me at [kevinandeljosy11@gmail.com](mailto:kevinandeljosy11@gmail.com).
