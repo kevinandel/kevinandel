@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Kevin Andel Josy, a B. Tech in Computer Science and Engineering graduate passionate about technology and coding. I am a passionate full stack web developer(MERN) and a graphic designer.
+I'm Kevin Andel Josy, a B. Tech in Computer Science and Engineering graduate passionate about technology and coding. I am a passionate software developer and a graphic designer.
 
 ## About Me
 
@@ -23,6 +23,7 @@ I'm Kevin Andel Josy, a B. Tech in Computer Science and Engineering graduate pas
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![EmailJS](https://img.shields.io/badge/EmailJS-4A9FFF?style=for-the-badge&logo=maildotru&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
