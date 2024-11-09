@@ -10,7 +10,7 @@ I'm Kevin Andel Josy, a B. Tech in Computer Science and Engineering graduate pas
 - 🌐 Experienced in full stack web development.
 - 💬 Open to collaboration and discussions on technology and coding.
 - 📫 You can reach me at [kevinandeljosy11@gmail.com](mailto:kevinandeljosy11@gmail.com).
-- 📲 [Click Here](https://myportfoliofinal-rho.vercel.app/) to visit my portfolio
+- 📲 [Click Here](https://myportfoliofinal-rho.vercel.app/) to visit my portfolio.
 
 ## Technologies I Work With
 
