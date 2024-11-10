@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Kevin Andel Josy, a B. Tech in Computer Science and Engineering graduate passionate about technology and coding. I am a passionate software developer and a graphic designer.
+I'm Kevin Andel Josy, a B. Tech in Computer Science and Engineering graduate who is passionate about technology and coding. I am a passionate software developer and a graphic designer.
 
 ## About Me
 
