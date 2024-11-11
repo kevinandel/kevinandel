@@ -1,13 +1,15 @@
 # Hi there! 👋
 
-I'm Kevin Andel Josy, a B. Tech in Computer Science and Engineering graduate who is passionate about technology and coding. I am a passionate software developer and a graphic designer.
+I'm Kevin, a passionate software developer and a graphic designer.
+
+![Views](https://komarev.com/ghpvc/?username=kevinandel)
 
 ## About Me
 
-- 🎓 B. Tech in Computer Science and Engineering graduate from Government Engineering College, Thrissur.
+- 🎓 B. Tech Computer Science graduate from Government Engineering College, Thrissur.
 - 💻 Enthusiastic about coding and exploring new technologies.
 - 🎨 Experienced in graphic designing.
-- 🌐 Experienced in full stack web development.
+- 🌐 Experienced in software development.
 - 💬 Open to collaboration and discussions on technology and coding.
 - 📫 You can reach me at [kevinandeljosy11@gmail.com](mailto:kevinandeljosy11@gmail.com).
 - 📲 [Click Here](https://myportfoliofinal-rho.vercel.app/) to visit my portfolio.
