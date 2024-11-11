@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Kevin, a passionate software developer and a graphic designer.
+I'm Kevin, a passionate software developer and graphic designer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kevinandel)
 
