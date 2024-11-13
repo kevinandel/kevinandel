@@ -2,7 +2,7 @@
 
 I'm Kevin, a passionate software developer and graphic designer.
 
-![Profile Views](https://komarev.com/ghpvc/?username=kevinandel)
+[![](https://visitcount.itsvg.in/api?id=kevinandel&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## About Me
 
