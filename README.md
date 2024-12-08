@@ -6,7 +6,7 @@ I'm Kevin, a passionate software developer and graphic designer.
 
 ## About Me
 
-- 🎓 B. Tech Computer Science graduate from Government Engineering College, Thrissur.
+- 🎓 B. Tech Computer Science and Engineering graduate from Government Engineering College, Thrissur.
 - 💻 Enthusiastic about coding and exploring new technologies.
 - 🎨 Experienced in graphic designing.
 - 🌐 Experienced in software development.
