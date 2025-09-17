@@ -2,8 +2,6 @@
 
 I'm Kevin, a passionate software developer and graphic designer.
 
-[![](https://visitcount.itsvg.in/api?id=kevinandel&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
 ## About Me
 
 - 🎓 B. Tech Computer Science graduate from Government Engineering College, Thrissur.
@@ -52,6 +50,5 @@ I'm Kevin, a passionate software developer and graphic designer.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kevinandeljosy)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/kevin__andel/)
 [![Gmail](https://img.shields.io/badge/Gmail-lightyellow?style=for-the-badge&logo=gmail)](mailto:kevinandeljosy11@gmail.com)
-
 
 Feel free to explore my projects and reach out for collaborations or discussions. Let's innovate together! 
