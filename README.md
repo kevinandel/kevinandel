@@ -1,11 +1,5 @@
 # Hi there! 👋
 
-
-## About Me
-
-- 🎓 B. Tech Computer Science graduate from Government Engineering College, Thrissur.
-- 💻 Enthusiastic about coding and exploring new technologies.
-- 💬 Open to collaboration and discussions.
 - 📫 You can reach me at [kevinandeljosy11@gmail.com](mailto:kevinandeljosy11@gmail.com).
 - 📲 [Click Here](https://myportfoliofinal-rho.vercel.app/) to visit my portfolio.
 
