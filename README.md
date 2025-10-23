@@ -35,3 +35,4 @@
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 ![WebRTC](https://img.shields.io/badge/WebRTC-008000?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-E0265B?style=for-the-badge&logo=appium&logoColor=white)
