@@ -1,14 +1,11 @@
 # Hi there! 👋
 
-I'm Kevin, a passionate software developer and graphic designer.
 
 ## About Me
 
 - 🎓 B. Tech Computer Science graduate from Government Engineering College, Thrissur.
 - 💻 Enthusiastic about coding and exploring new technologies.
-- 🎨 Experienced in graphic designing.
-- 🌐 Experienced in software development.
-- 💬 Open to collaboration and discussions on technology and coding.
+- 💬 Open to collaboration and discussions.
 - 📫 You can reach me at [kevinandeljosy11@gmail.com](mailto:kevinandeljosy11@gmail.com).
 - 📲 [Click Here](https://myportfoliofinal-rho.vercel.app/) to visit my portfolio.
 
@@ -49,6 +46,5 @@ I'm Kevin, a passionate software developer and graphic designer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kevinandeljosy)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/kevin__andel/)
-[![Gmail](https://img.shields.io/badge/Gmail-lightyellow?style=for-the-badge&logo=gmail)](mailto:kevinandeljosy11@gmail.com)
 
 Feel free to explore my projects and reach out for collaborations or discussions. Let's innovate together! 
