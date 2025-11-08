@@ -36,3 +36,5 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-008000?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-E0265B?style=for-the-badge&logo=appium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
